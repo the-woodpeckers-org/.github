@@ -36,14 +36,14 @@
       <td>Phạm Thị Kim Phượng</td>
       <td>Member</td>
       <td>karinapham03@gmail.com</td>
-      <td>...</td>
+      <td>0388146321</td>
     </tr>
     <tr>
       <td>2001215685</td>
       <td>Phan Ngọc Bảo Vinh</td>
       <td>Member</td>
       <td>pv198357@gmail.com </td>
-      <td>...</td>
+      <td>0344052691</td>
     </tr>
   </tbody>
 </table>
