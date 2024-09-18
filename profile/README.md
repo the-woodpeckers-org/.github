@@ -47,6 +47,21 @@
     </tr>
   </tbody>
 </table>
+
+## 
+<table>
+  <tr>
+    <td>
+      <kbd><img src="https://res.cloudinary.com/dazvvxymm/image/upload/v1726071143/CP-Photoroom_1_vl6kzc.png" width="400px"></kbd>
+      <br>
+      <kbd><img src="https://thpt.huit.edu.vn/app_web/ttgdpt/images/icons/logo-huit-xanh.png" width="400px"></kbd>
+    </td>
+    <td>
+      <kbd><img src="https://res.cloudinary.com/dazvvxymm/image/upload/v1726073233/OIG3.8-Photoroom_we02zq.png" height="204px"></kbd>
+    </td>
+  </tr>
+</table>
+
 <!--
 
 **Here are some ideas to get you started:**
