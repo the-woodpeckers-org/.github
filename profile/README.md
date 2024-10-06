@@ -1,7 +1,7 @@
 ## Nhóm thực hiện đồ án chuyên ngành K12 CNTT HUIT 2024 --- The Woodpeckers👋
 ## Thông tin đề tài
 - Giảng viên hướng dẫn: ThS. Bùi Công Danh
-- Đề tài: Xây dựng hệ thống lập trình cạnh tranh & tuyển dụng đa nền tảng
+- Đề tài: Xây dựng hệ thống lập trình cạnh tranh & tuyển dụng 
 - GitHub: https://github.com/the-woodpeckers-org
 - Theo dõi tiến độ đề tài: https://overjoyed-print-2b5.notion.site/Root-8f862df1776742f2a7b6c32f312aad67?pvs=25
 ## Sinh viên thực hiện
